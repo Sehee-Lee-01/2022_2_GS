@@ -20,7 +20,7 @@
 
 ### 1) SampleScene
 
-<img width="406" alt="스크린샷_20221101_035136" src="https://user-images.githubusercontent.com/85275893/199089943-989afc72-5e24-4454-b6c3-cfbfe6abe197.png">
+![겜소 개인](https://user-images.githubusercontent.com/85275893/199090101-0a415754-82f2-43fb-8c3a-6a59ef4180aa.png)
 
 - Scene 파일 경로: Assets/Scenes/SampleScene
 
@@ -78,7 +78,7 @@
 
 ### 3) TerrainScene
 
-<img width="690" alt="스크린샷_20221101_035033" src="https://user-images.githubusercontent.com/85275893/199089964-6cfb6d1d-b01e-4c01-8abd-5c331476ae2d.png">
+![겜소 개인 (1)](https://user-images.githubusercontent.com/85275893/199090121-728bdf21-e65f-48fd-96aa-f3cf89c57c46.png)
 
 - Scene 파일 경로: Assets/Scenes/TerrainScene
 
