@@ -20,6 +20,8 @@
 
 ### 1) SampleScene
 
+<img width="406" alt="스크린샷_20221101_035136" src="https://user-images.githubusercontent.com/85275893/199089943-989afc72-5e24-4454-b6c3-cfbfe6abe197.png">
+
 - Scene 파일 경로: Assets/Scenes/SampleScene
 
 - 사용 에셋: Assets/PolygonStarter/Prefabs/`SM_PolygonPrototype_Prop_Cone_01`
@@ -75,6 +77,8 @@
   -  
 
 ### 3) TerrainScene
+
+<img width="690" alt="스크린샷_20221101_035033" src="https://user-images.githubusercontent.com/85275893/199089964-6cfb6d1d-b01e-4c01-8abd-5c331476ae2d.png">
 
 - Scene 파일 경로: Assets/Scenes/TerrainScene
 
