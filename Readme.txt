@@ -12,7 +12,8 @@
 a. 유니티 버전: 2021.3.9f1
 
 b. 사용 에셋(수업시간에 하지 않은 Asset으로 반영)
-- https://assetstore.unity.com/account/assets
+- https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty-156819
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
 
 c. 기타사항
 - SampleScene, ParticleScene, TerrainScene, BackgroundScene 으로 분리하여  Scene을 구성
