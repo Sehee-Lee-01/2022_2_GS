@@ -64,6 +64,8 @@
 
 ### 2) ParticleScene
 
+![겜소 개인](https://user-images.githubusercontent.com/85275893/199178492-1eeaa563-8e24-4d28-9989-f0af8b507ac4.png)
+
 - Scene 파일 경로: Assets/Scenes/ParticleScene
 
 - 사용 에셋
