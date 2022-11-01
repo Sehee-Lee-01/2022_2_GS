@@ -66,15 +66,26 @@
 
 - Scene 파일 경로: Assets/Scenes/ParticleScene
 
+- 사용 에셋
+
+  - 파티클 Albedo Asset: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/`Broadleaf_Mobile_Atlas_Specular.tga`
+  - 파티클 매터리얼: Assets/`Mat_Particle.mat`
+
 - `(구현완료)` Particle System을 추가하고 속성값 5개 이상 변경하여 반영
 
 - 변경된 속성값
 
-  -
-  -
-  -
-  -
-  -  
+  - Shape : Donut으로 변경
+
+  - Transform: 눈처럼 보이기 위해 y축값 변경
+  
+  - Size over Lifetime: 초기에 점점 커지다가 작아지도록 설정
+  
+  - Color over Lifetime: 처음에는 파란빛을 내다가 하얀빛으로 투명하게 사라짐
+  
+  - Rotation over Lifetime: 45도로 값을 주어 좀 더 자연스러운 눈 구현
+  
+  - Emmision: Rate over Time을 100으로 설정
 
 ### 3) TerrainScene
 
