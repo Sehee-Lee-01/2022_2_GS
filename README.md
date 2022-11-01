@@ -100,6 +100,32 @@
 
 - 사용 에셋
 
-  - Assets/
+  - 배경: Assets/Assets/UnderwaterFantasy/underwater-artwork/`underwater-fantasy-preview.png`
+  - 오브젝트: Assets/PolygonStarter/Prefabs/`SM_Generic_Tree_02.prefab`
+
+    ※ Wrap Mode를 Cramp에서Repeat로 변경
+
+- 매터리얼 : Assets/`Mat_Background.mat`
+
+- C# 스크립트: Assets/`Background.cs`
+
+  ```c#
+  using System.Collections;
+  using System.Collections.Generic;
+  using UnityEngine;
+
+  public class Background : MonoBehaviour
+  {
+      public Material bgMaterial; // 배경 매터리얼
+      public float scrollSpeed = 0.2f; // 스크롤 속도
+
+      // Update is called once per frame
+      void Update()
+      {
+          Vector2 direction = Vector2.right; // 오른쪽으로 스크롤하도록 지정
+          bgMaterial.mainTextureOffset += direction * scrollSpeed * Time.deltaTime;
+      }
+  }
+  ```
 
 - `(구현완료)` 스크롤되는 배경화면 만들기
