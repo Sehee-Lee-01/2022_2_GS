@@ -75,17 +75,36 @@
 
 - 변경된 속성값
 
-  - Shape : Donut으로 변경
+  - Particle System: Start Delay, Start Lifetime 10으로 변경
+
+<img width="262" alt="스크린샷_20221101_033029" src="https://user-images.githubusercontent.com/85275893/199178030-ab60148b-7d59-416a-a738-4c20dc5596d0.png">
+
+  - Shape: Donut으로 변경
+  
+  <img width="256" alt="스크린샷_20221101_033235" src="https://user-images.githubusercontent.com/85275893/199177728-1ce097ec-b1f3-42d6-bcb8-0c689e01301b.png">
 
   - Transform: 눈처럼 보이기 위해 y축값 변경
   
+  <img width="266" alt="스크린샷_20221101_033530" src="https://user-images.githubusercontent.com/85275893/199177788-9574bc13-372b-4c22-a15f-876a6ddb0589.png">
+  
   - Size over Lifetime: 초기에 점점 커지다가 작아지도록 설정
   
+  <img width="260" alt="스크린샷_20221101_033719" src="https://user-images.githubusercontent.com/85275893/199177814-03af9d91-df8c-4089-8745-2a0cfd7e5168.png">
+
+  <img width="272" alt="스크린샷_20221101_033713" src="https://user-images.githubusercontent.com/85275893/199177811-c789a256-b5e3-49c0-a6f3-dbb6a6334c60.png">
+
   - Color over Lifetime: 처음에는 파란빛을 내다가 하얀빛으로 투명하게 사라짐
+  
+  <img width="253" alt="스크린샷_20221101_034300" src="https://user-images.githubusercontent.com/85275893/199177835-49a5e861-effb-4949-9f85-fb676b55e2a5.png">
   
   - Rotation over Lifetime: 45도로 값을 주어 좀 더 자연스러운 눈 구현
   
+  <img width="260" alt="스크린샷_20221101_034345" src="https://user-images.githubusercontent.com/85275893/199177854-d7bfab52-759e-434a-8a8a-aa71ac8e165a.png">
+
   - Emmision: Rate over Time을 100으로 설정
+  
+<img width="513" alt="스크린샷_20221101_034513" src="https://user-images.githubusercontent.com/85275893/199177862-70f9de85-f77a-4df3-9642-d8629957de4f.png">
+
 
 ### 3) TerrainScene
 
