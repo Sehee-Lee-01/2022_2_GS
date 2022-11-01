@@ -107,6 +107,8 @@
 
 ### 4) BackgroundScene
 
+![겜소 개인](https://user-images.githubusercontent.com/85275893/199143700-d4558376-8e16-453a-afe2-786063dfd0a9.png)
+
 - Scene 파일 경로: Assets/Scenes/BackgroundScene
 
 - 사용 에셋
